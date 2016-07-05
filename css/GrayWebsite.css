@@ -1,0 +1,13 @@
+body {
+ background-image: url("background.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+h2 {
+ text-align:center;
+ font color: #00f148;
+ margin: auto;
+}
